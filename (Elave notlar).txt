@@ -1,0 +1,4 @@
+Açar Xüsusiyyətlər:
+CSV Faylı: Hər yazıda cari IP üçün cəmi uğursuz girişlərin sayı göstərilir.
+Failed Logins: 5-dən az uğursuz girişlər olduğu üçün boş bir {} qaytarılır.
+Təhdid IP-ləri və Birləşmiş Məlumatlar: HTML-dəki təhlükəli IP-lər və failed_logins birlikdə saxlanır.
